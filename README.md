@@ -1,4 +1,5 @@
-# UTBK-2019-UB-Analyst
+# Universitas-Brawijaya-UTBK-2019-Analyst
+
 i got this data from [kaggle](https://www.kaggle.com/ekojsalim/indonesia-college-entrance-examination-utbk-2019)
 
 
