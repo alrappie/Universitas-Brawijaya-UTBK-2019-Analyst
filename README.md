@@ -20,6 +20,10 @@ i got this data from [kaggle](https://www.kaggle.com/ekojsalim/indonesia-college
 
 ![UB Distribution scores for Humanities Major 2019](photos/UB%20Distribution%20scores%20for%20Humanities%20Major%202019.png)
 
+![Distribution Each Subject in Humanities](photos/Distribution%20Each%20Subject%20in%20Humanities.png)
+
+![Distribution Each Subject in Scence](photos/Distribution%20Each%20Subject%20in%20Science.png)
+
 ![Avg Score in Science Majors UB 2019](/photos/Avg%20Score%20in%20Science%20Majors%20UB%202019.png)
 
 ![Avg Score in Humanities Majors UB 2019](photos/Avg%20Score%20in%20Humanities%20Majors%20UB%202019.png)
