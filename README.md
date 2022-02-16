@@ -37,7 +37,7 @@ Untuk jurusan IPS prodi Ilmu Komunikas sebesar 14.732%
 ## Penyebaran nilai yang keterima di UB
 <hr>
 
-    setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasarkan pilihan utama, kapasitas prodi, dan rata-rata score didapatkan hasil seperti berikut:
+setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasarkan pilihan utama, kapasitas prodi, dan rata-rata score didapatkan hasil seperti berikut:
 
 ![UB Distribution scores for Science Major 2019](/photos/UB%20Distribution%20scores%202019.png)
 
