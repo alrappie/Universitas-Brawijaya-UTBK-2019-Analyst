@@ -64,4 +64,6 @@ setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasar
 
 ## Nilai tertinggi dan terendah pada prodi Ilmu Kedokteran
 
-![Medical School UB Avg Scores 2019](/photos/Medical%20School%20UB%20Avg%20Scores%202019.png)
+![Medical UB Avg Scores](/photos/Medical%20School%20UB%20Avg%20Scores%202019.png)
+
+![Akuntansi UB Avg Scores](photos/Akuntansi%20UB%20Avg%20Scores.png)
