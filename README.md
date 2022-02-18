@@ -24,7 +24,7 @@ Banyaknya total jurusan yang ada di universitas brawijaya untuk IPS 28 jurusan d
 !['UB Humanities majors based on the first choice 2019'](photos/UB%20Humanities%20majors%20based%20on%20the%20first%20choice%202019.png)
 
 ## 10 Prodi terketat 
-    (capacity/total choices)* 100%
+(capacity/total choices)* 100%
 <hr>
 
 ![Percentage Strictest Science Majors](photos/Percentage%20Strictest%20Science%20Majors.png)
@@ -56,7 +56,7 @@ setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasar
 
 ![Avg Score in Humanities Majors UB 2019](photos/Avg%20Score%20in%20Humanities%20Majors%20UB%202019.png)
 
-## Top 5 Persebaran nilai tertinggi
+## Top 5 Persebaran nilai pada prodi tertinggi
 <hr>
 
 ![Top 5 Avg Score Science Majors 2019](photos/Top%205%20Avg%20Score%20Science%20Majors%202019.png)
