@@ -35,10 +35,16 @@ keketatan tertinggi pada jurusan IPA dari prodi Ilmu Gizi sebesar 9.091%
 
 Untuk jurusan IPS prodi Ilmu Komunikas sebesar 14.732%
 
-## Penyebaran nilai yang keterima di UB
+## Cleaning Data
+<hr>
+setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasarkan pilihan utama, kapasitas prodi, dan rata-rata score didapatkan hasil seperti berikut:
+
+<br>
+
+
+### Penyebaran nilai yang keterima di UB
 <hr>
 
-setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasarkan pilihan utama, kapasitas prodi, dan rata-rata score didapatkan hasil seperti berikut:
 
 ![UB Distribution scores for Science Major 2019](/photos/UB%20Distribution%20scores%202019.png)
 
@@ -49,26 +55,26 @@ setelah melakukan cleaning data untuk menyeleksi perserta yang diterima berdasar
 
 ![Distribution Each Subject in Scence](photos/Distribution%20Each%20Subject%20in%20Science.png)
 
-## Rata-rata keseluruhan nilai yang diterima di UB
+### Rata-rata keseluruhan nilai yang diterima di UB
 <hr>
 
 ![Avg Score in Science Majors UB 2019](/photos/Avg%20Score%20in%20Science%20Majors%20UB%202019.png)
 
 ![Avg Score in Humanities Majors UB 2019](photos/Avg%20Score%20in%20Humanities%20Majors%20UB%202019.png)
 
-## Top 5 Persebaran nilai pada prodi tertinggi
+### Top 5 Persebaran nilai prodi tertinggi
 <hr>
 
 ![Top 5 Avg Score Science Majors 2019](photos/Top%205%20Avg%20Score%20Science%20Majors%202019.png)
 
 ![Top 5 Avg Score Humanities Majors 2019](photos/Top%205%20Avg%20Score%20Humanities%20Majors%202019.png)
 
-## Nilai tertinggi dan terendah pada prodi Ilmu Kedokteran
+### Nilai tertinggi dan terendah pada prodi Ilmu Kedokteran
 <hr>
 
 ![Medical UB Avg Scores](/photos/Medical%20School%20UB%20Avg%20Scores%202019.png)
 
-## Nilai tertinggi dan terendah pada prodi Akuntansi
+### Nilai tertinggi dan terendah pada prodi Akuntansi
 <hr>
 
 ![Akuntansi UB Avg Scores](photos/Akuntansi%20UB%20Avg%20Scores.png)
